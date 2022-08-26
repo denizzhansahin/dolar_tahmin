@@ -1,2 +1,2 @@
 # dolar_tahmin
-Geçmiş günlerin dolar verilerine göre gelecek günlerin dolar tahmin verileri oluşturulmaktadır. Google Colab üzerinde geliştirilmiştir.
+Geçmiş günlerin dolar verilerine göre gelecek günlerin dolar tahmin verileri oluşturulmaktadır. Google Colab üzerinde oluşturulmuş ve çalıştırılmıştır. Google Colab üzerinde çalıştırmak için Python dosyasını ya da Google Colab  dosyasını kullanın. Ayrıca CSV dosyasını Google Colab'a yüklemeniz gerekmektedir. Bilgisayarınızda bu Python dosyasını çalıştırmak istiyorsanız Anaconda kullanmanızı tavsiye ederim. Kullanılan kütüphenler sırası ile Pandas, Numpy, Matplotlib ve Sklearn.
