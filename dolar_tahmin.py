@@ -38,7 +38,7 @@ plt.ylabel("Değerler")
 plt.show()
 
 #27 temmuzda itibaren alınan Google verileri kullanıştır. Bugünü 26 agustos olarak esas alınız. Bulunduğunuz gunden itibaren kaç gün sonrasını tahmin etmek için sayı giriniz.
-#en fazla 60 güne kadar sayı yazınız. 26 temmuzdan sonraki günleri verisi tahmin edilecektir.
+# 26 ağustostan sonraki günleri verisi tahmin edilecektir.
 print("Gun Yazınız: ")
 gun = int(input())
 
